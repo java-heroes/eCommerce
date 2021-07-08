@@ -39,9 +39,7 @@ So you roughly have a user, with a web browser, sending orders to Spring MVC, wh
 Ali Coskan Demirbolat
 
 ### Team Members
-Ali Artuvan ️
-
-Mustafa Yaşar 
+Ali Artuvan
 
 Nadide Yücel 
 
