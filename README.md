@@ -1,6 +1,6 @@
 # eCommerce System
 This repository includes the backend of the electronic commerce system.
-This backend version only provides a REST API. There is no UI.At least for now
+This backend version only provides BACK-END section. There is no UI.At least for now
 
 
 
