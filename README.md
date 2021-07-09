@@ -41,6 +41,4 @@ Ali Coskan Demirbolat
 ### Team Members
 Ali Artuvan
 
-Nadide Yücel 
-
-Ömer Kaya 
+Nadide Yücel
