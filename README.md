@@ -43,4 +43,4 @@ Ali Artuvan
 
 Nadide Yücel
 
-Mustafa Yaşar (Stajyer)
+Mustafa Yaşar
