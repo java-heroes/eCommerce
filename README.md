@@ -32,7 +32,7 @@ Spring MVC is a part of SPring which helps build testable web pages. Your eComme
 
 So you roughly have a user, with a web browser, sending orders to Spring MVC, which turns these into Java objects for your custom application, which sends these to Hibernate, which prepares them for storage in the database.
 
---------------------------------------------------
+-----------------------------------------------
 
 ### Team Leader
 
@@ -44,5 +44,3 @@ Ali Artuvan
 Nadide Yücel
 
 Mustafa Yaşar
-
----------------------------------------------------
