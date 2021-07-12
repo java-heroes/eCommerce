@@ -44,5 +44,3 @@ Ali Artuvan
 Nadide Yücel
 
 Mustafa Yaşar
-
----
