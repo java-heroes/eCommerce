@@ -1,10 +1,10 @@
 package com.ecommerce.teamseven.controller;
 
-import kh.com.camarket.model.Cart;
-import kh.com.camarket.model.Customer;
-import kh.com.camarket.model.CustomerOrder;
-import kh.com.camarket.service.CartService;
-import kh.com.camarket.service.CustomerOrderService;
+import com.ecommerce.teamseven.model.Cart;
+import com.ecommerce.teamseven.Customer;
+import com.ecommerce.teamseven.CustomerOrder;
+import com.ecommerce.teamseven.CartService;
+import com.ecommerce.teamseven.CustomerOrderService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PathVariable;
