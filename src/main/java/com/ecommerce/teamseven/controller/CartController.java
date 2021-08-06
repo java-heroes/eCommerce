@@ -1,8 +1,8 @@
 package com.ecommerce.teamseven.controller;
 
-import kh.com.camarket.model.Customer;
-import kh.com.camarket.service.CartService;
-import kh.com.camarket.service.CustomerService;
+import com.ecommerce.teamseven.model.Customer;
+import com.ecommerce.teamseven.service.CartService;
+import com.ecommerce.teamseven.service.CustomerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.web.bind.annotation.AuthenticationPrincipal;
