@@ -1,7 +1,6 @@
 package com.ecommerce.teamseven.dao;
 
 import com.ecommerce.teamseven.model.Product;
-
 import java.util.List;
 
 public interface ProductDao {
