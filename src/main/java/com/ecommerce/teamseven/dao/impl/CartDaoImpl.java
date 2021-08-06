@@ -1,8 +1,8 @@
 package com.ecommerce.teamseven.dao.impl;
 
-import kh.com.camarket.dao.CartDao;
-import kh.com.camarket.model.Cart;
-import kh.com.camarket.service.CustomerOrderService;
+import com.ecommerce.dao.CartDao;
+import com.ecommerce.model.Cart;
+import com.ecommerce.service.CustomerOrderService;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -11,9 +11,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 import java.io.IOException;
 
-/**
- * Created by Yuth on 3/29/2017.
- */
+
 @Repository
 @Transactional
 public class CartDaoImpl implements CartDao {
