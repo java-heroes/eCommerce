@@ -1,6 +1,5 @@
 package com.ecommerce.teamseven.dao;
 
-import kh.com.camarket.model.Customer;
 
 import java.util.List;
 
