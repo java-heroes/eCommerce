@@ -119,5 +119,5 @@ public class AdminProduct {
         productService.deleteProduct(product);
 
         return "redirect:/admin/productInventory";
-    }
+   }
 }
