@@ -1,4 +1,7 @@
-package com.ecommerce.teamseven.dao;
+package com.ecommerce.dao;
+
+import com.ecommerce.model.Cart;
+import com.ecommerce.model.CartItem;
 
 
 public interface CartItemDao {
