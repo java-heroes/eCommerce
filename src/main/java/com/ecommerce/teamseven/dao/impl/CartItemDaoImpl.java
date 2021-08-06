@@ -12,9 +12,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 
-/**
- * Created by Yuth on 3/29/2017.
- */
+
 @Repository
 @Transactional
 public class CartItemDaoImpl implements CartItemDao {
