@@ -88,5 +88,4 @@ public class CartResources {
     @ExceptionHandler(Exception.class)
     @ResponseStatus(value = HttpStatus.INTERNAL_SERVER_ERROR, reason = "Internal Server Error.")
     public void handleServerErrors(Exception e){}
-
 }
