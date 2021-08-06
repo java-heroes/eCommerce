@@ -1,10 +1,10 @@
 package com.ecommerce.teamseven.dao.impl;
 
-import com.ecommerce.dao.CustomerDao;
-import com.ecommerce.model.Authorities;
-import com.ecommerce.model.Cart;
-import com.ecommerce.model.Customer;
-import com.ecommerce.model.Users;
+import com.ecommerce.teamseven.dao.CustomerDao;
+import com.ecommerce.teamseven.model.Authorities;
+import com.ecommerce.teamseven.model.Cart;
+import com.ecommerce.teamseven.model.Customer;
+import com.ecommerce.teamseven.model.Users;
 import org.hibernate.Query;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
