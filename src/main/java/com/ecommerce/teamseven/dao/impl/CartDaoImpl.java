@@ -11,7 +11,6 @@ import org.springframework.transaction.annotation.Transactional;
 
 import java.io.IOException;
 
-
 @Repository
 @Transactional
 public class CartDaoImpl implements CartDao {
@@ -50,6 +49,5 @@ public class CartDaoImpl implements CartDao {
 
         Session session = sessionFactory.getCurrentSession();
         session.saveOrUpdate(cart);
-
     }
 }
