@@ -1,5 +1,6 @@
-package com.ecommerce.teamseven.dao;
+package com.ecommerce.dao;
 
+import com.ecommerce.model.Product;
 
 import java.util.List;
 
