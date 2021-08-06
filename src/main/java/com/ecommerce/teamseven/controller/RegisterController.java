@@ -1,9 +1,9 @@
 package com.ecommerce.teamseven.controller;
 
-import kh.com.camarket.model.BillingAddress;
-import kh.com.camarket.model.Customer;
-import kh.com.camarket.model.ShippingAddress;
-import kh.com.camarket.service.CustomerService;
+import com.ecommerce.teamseven.model.BillingAddress;
+import com.ecommerce.teamseven.model.Customer;
+import com.ecommerce.teamseven.model.ShippingAddress;
+import com.ecommerce.teamseven.service.CustomerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
