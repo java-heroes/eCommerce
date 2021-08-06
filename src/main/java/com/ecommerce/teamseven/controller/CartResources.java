@@ -17,7 +17,6 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-
 @Controller
 @RequestMapping("/rest/cart")
 public class CartResources {
@@ -89,6 +88,5 @@ public class CartResources {
     @ExceptionHandler(Exception.class)
     @ResponseStatus(value = HttpStatus.INTERNAL_SERVER_ERROR, reason = "Internal Server Error.")
     public void handleServerErrors(Exception e){}
-
 
 }
