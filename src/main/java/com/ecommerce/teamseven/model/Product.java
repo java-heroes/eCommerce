@@ -129,4 +129,4 @@ public class Product implements Serializable{
     public void setCartItemList(List<CartItem> cartItemList) {
         this.cartItemList = cartItemList;
     }
-}}
+}
