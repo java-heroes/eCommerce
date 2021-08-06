@@ -1,6 +1,6 @@
 package com.ecommerce.teamseven.dao.impl;
 
-import com.ecommerce..teamseven.dao.CartItemDao;
+import com.ecommerce.teamseven.dao.CartItemDao;
 import com.ecommerce.teamseven.model.Cart;
 import com.ecommerce.teamseven.model.CartItem;
 import org.hibernate.Query;
