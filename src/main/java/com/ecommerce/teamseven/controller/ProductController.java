@@ -11,7 +11,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import java.io.IOException;
 import java.util.List;
 
-
 @Controller
 @RequestMapping("/product")
 public class ProductController {
