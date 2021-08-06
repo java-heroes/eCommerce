@@ -1,8 +1,8 @@
 package com.ecommerce.teamseven.dao.impl;
 
-import kh.com.camarket.dao.CartItemDao;
-import kh.com.camarket.model.Cart;
-import kh.com.camarket.model.CartItem;
+import com.ecommerce.dao.CartItemDao;
+import com.ecommerce.model.Cart;
+import com.ecommerce.model.CartItem;
 import org.hibernate.Query;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
