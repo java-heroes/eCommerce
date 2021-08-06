@@ -1,7 +1,7 @@
 package com.ecommerce.teamseven.dao.impl;
 
-import com.ecommerce.dao.ProductDao;
-import com.ecommerce.model.Product;
+import com.ecommerce.teamseven.dao.ProductDao;
+import com.ecommerce.teamseven.model.Product;
 import org.hibernate.Query;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
@@ -12,9 +12,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 
-/**
- * Created by Yuth on 3/13/2017.
- */
+
 @Repository
 @Transactional
 public class ProductDaoImpl implements ProductDao {
