@@ -1,5 +1,9 @@
 package com.ecommerce.teamseven.dao;
 
+import com.ecommerce.teamseven.model.Cart;
+
+import java.io.IOException;
+
 
 import java.io.IOException;
 
