@@ -1,8 +1,8 @@
 package com.ecommerce.teamseven.dao.impl;
 
-import com.ecommerce.dao.CartDao;
-import com.ecommerce.model.Cart;
-import com.ecommerce.service.CustomerOrderService;
+import com.ecommerce.teamseven.dao.CartDao;
+import com.ecommerce.teamseven.model.Cart;
+import com.ecommerce.teamseven.service.CustomerOrderService;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.springframework.beans.factory.annotation.Autowired;
