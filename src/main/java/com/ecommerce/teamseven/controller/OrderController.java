@@ -10,7 +10,6 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-
 @Controller
 public class OrderController {
 
@@ -34,6 +33,5 @@ public class OrderController {
         customerOrderService.addCustomerOrder(customerOrder); // use customer order service to add customer order
 
         return "redirect:/checkout?cartId="+cartId;
-
     }
 }
