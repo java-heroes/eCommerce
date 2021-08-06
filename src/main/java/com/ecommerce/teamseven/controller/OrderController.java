@@ -33,5 +33,5 @@ public class OrderController {
         customerOrderService.addCustomerOrder(customerOrder); // use customer order service to add customer order
 
         return "redirect:/checkout?cartId="+cartId;
-    }
+   }
 }
