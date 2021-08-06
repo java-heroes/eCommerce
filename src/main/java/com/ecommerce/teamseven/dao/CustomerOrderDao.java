@@ -1,4 +1,6 @@
-package com.ecommerce.teamseven.dao;
+package com.ecommerce.dao;
+
+import com.ecommerce.model.CustomerOrder;
 
 
 public interface CustomerOrderDao {
