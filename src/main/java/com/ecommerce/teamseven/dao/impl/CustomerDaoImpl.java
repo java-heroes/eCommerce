@@ -15,7 +15,6 @@ import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 
-
 @Repository
 @Transactional
 public class CustomerDaoImpl implements CustomerDao {
@@ -92,5 +91,5 @@ public class CustomerDaoImpl implements CustomerDao {
         query.setString(0, username);
 
         return (Customer) query.uniqueResult();
-    }
+   }
 }
