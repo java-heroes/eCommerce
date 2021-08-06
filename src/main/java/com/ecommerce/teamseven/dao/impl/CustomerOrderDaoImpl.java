@@ -1,7 +1,7 @@
 package com.ecommerce.teamseven.dao.impl;
 
-import com.ecommerce.dao.CustomerOrderDao;
-import com.ecommerce.model.CustomerOrder;
+import com.ecommerce.teamseven.dao.CustomerOrderDao;
+import com.ecommerce.teamseven.model.CustomerOrder;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.springframework.beans.factory.annotation.Autowired;
