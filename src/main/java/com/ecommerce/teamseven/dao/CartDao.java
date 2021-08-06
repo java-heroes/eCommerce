@@ -5,9 +5,6 @@ import com.ecommerce.teamseven.model.Cart;
 import java.io.IOException;
 
 
-import java.io.IOException;
-
-
 public interface CartDao {
 
     Cart getCartById(int cartId);
