@@ -1,7 +1,7 @@
 package com.ecommerce.teamseven.dao.impl;
 
-import kh.com.camarket.dao.ProductDao;
-import kh.com.camarket.model.Product;
+import com.ecommerce.dao.ProductDao;
+import com.ecommerce.model.Product;
 import org.hibernate.Query;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
