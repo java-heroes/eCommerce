@@ -1,8 +1,5 @@
 package com.ecommerce.teamseven.dao;
 
-import kh.com.camarket.model.Cart;
-import kh.com.camarket.model.CartItem;
-
 
 public interface CartItemDao {
 
