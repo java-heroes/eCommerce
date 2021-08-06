@@ -1,10 +1,10 @@
 package com.ecommerce.teamseven.dao.impl;
 
-import kh.com.camarket.dao.CustomerDao;
-import kh.com.camarket.model.Authorities;
-import kh.com.camarket.model.Cart;
-import kh.com.camarket.model.Customer;
-import kh.com.camarket.model.Users;
+import com.ecommerce.dao.CustomerDao;
+import com.ecommerce.model.Authorities;
+import com.ecommerce.model.Cart;
+import com.ecommerce.model.Customer;
+import com.ecommerce.model.Users;
 import org.hibernate.Query;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
