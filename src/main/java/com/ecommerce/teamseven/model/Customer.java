@@ -18,14 +18,14 @@ public class Customer implements Serializable {
     @GeneratedValue
     private int customerId;
 
-    @NotEmpty(message = "សូមធ្វើការបំពេញនូវឈ្មោះអតិថិជន!")
+    @NotEmpty(message = "Please fill in the customer name!")
     private String customerName;
-    @NotEmpty(message = "សូមធ្វើការបំពេញនូវអាស័យដ្ឋានអ៊ីមែល!")
+    @NotEmpty(message = "Please fill in the customer Email and Phone!")
     private String customerEmail;
     private String customerPhone;
-    @NotEmpty(message = "សូមធ្វើការបំពេញនូវឈ្មោះអ្នកប្រើប្រាស់!")
+    @NotEmpty(message = "Please fill in the username!")
     private String username;
-    @NotEmpty(message = "សូមធ្វើការបំពេញនូវលេខសម្ងាត់អ្នកប្រើប្រាស់!")
+    @NotEmpty(message = "Please fill in the password!")
     private String password;
     private boolean enabled;
 
