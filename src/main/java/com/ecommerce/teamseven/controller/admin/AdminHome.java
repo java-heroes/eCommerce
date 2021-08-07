@@ -2,8 +2,8 @@ package com.ecommerce.teamseven.controller.admin;
 
 import com.ecommerce.teamseven.model.Customer;
 import com.ecommerce.teamseven.model.Product;
-import com.ecommerce.teamseven.CustomerService;
-import com.ecommerce.teamseven.ProductService;
+import com.ecommerce.teamseven.service.CustomerService;
+import com.ecommerce.teamseven.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
